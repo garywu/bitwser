@@ -1,5 +1,5 @@
 # bitwser
-World's first and only, the most inefficient browser build with docker, docker compose, selenium and python
+World's first and only, the most inefficient browser build with docker, docker compose, selenium and python. With advanced software engineering it translates any valid url to a bitmap.
 
 Demostrates simplest python to selenium
 
