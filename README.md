@@ -6,15 +6,15 @@ Demostrates simplest python to selenium
 1. Install docker and docker-compose
 2. Build the containers:
 
-```sh
-docker-compose build
-```
+  ```sh
+  docker-compose build
+  ```
 
 3. Run the container
 
-```sh
-docker-compose up
-```
+  ```sh
+  docker-compose up
+  ```
 
 4. Browse to http://localhost:5000
 5. Browse to any url by: http://localhost:5000?url=http://google.com
